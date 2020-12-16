@@ -57,6 +57,7 @@ const App = ()=>{
             }
             return isPresent
         })
+        setCurrentPage(1)
         setFilteredCountries(tempCountries)
     }
 
