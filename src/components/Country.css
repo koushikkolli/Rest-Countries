@@ -1,0 +1,26 @@
+.header{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    height: 70px;
+    text-align: center;
+}
+
+.text{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+.body{
+    background-image: linear-gradient(to right, rgb(235, 192, 63) , rgb(66, 60, 42));
+}
+
+.backgound{
+    background-color: rgb(58, 71, 61);
+}
+
+.card-margin{
+    margin: 10px;
+}
